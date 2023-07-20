@@ -6,3 +6,4 @@ ReactDOM.render(
   <Form />,
   document.getElementById('root')
 );
+export default Form ;
